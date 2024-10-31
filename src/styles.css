@@ -1,5 +1,8 @@
 .App {
   font-family: sans-serif;
-  text-align: justify;
+  text-align: center;
   margin: 20px;
+}
+footer{
+  text-align: center;
 }
