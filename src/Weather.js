@@ -58,4 +58,8 @@ export default function Weather() {
   } else {
     return form;
   }
+  <footer>"This project is coded by Jacinta Musau"
+    <a href=""target="-blank"rel="noopener noreferer">open sourced on github</a>
+    "and"<a href="#">hosted on Netlify</a>
+  </footer>
 }
